@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spotify.redirect",
+    "type": "java.lang.String",
+    "description": "Spotify redirect url"
+  },
+  {
+    "name": "spotify.client-id",
+    "type": "java.lang.String",
+    "description": "Spotify client id"
+  },
+  {
+    "name": "spotify.client-secret",
+    "type": "java.lang.String",
+    "description": "Spotify client secret"
+  }
+]}
